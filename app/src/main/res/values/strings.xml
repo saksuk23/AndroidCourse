@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidCourse</string>
+    <string name="statusText">Waiting</string>
+    <string name="download">Download</string>
 </resources>
